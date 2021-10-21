@@ -58,7 +58,7 @@ self.debugPrint | "debugMode" | `bool` | Prints everything that calls `sps(condi
 self.outputFileNameAsOutputFile | "outputNameBeInput" | `bool` | Names the output file name as the original file. (def. `True`)
 self.useUserDirectory | "useUserDirectory" | `bool` | Uses the user directory (def. `True`)
 self.addExtentsions | "addExt" | `string` or `list of strings` | Takes the value/s from arg and appends (adds) it to the filter list (def. `None`)
-self.clearDefaultExtensions | "clearExt" | `bool` or `int` | Clears or Clears part of the list, it safe to use `"addExt`" with this (def. `None`
+self.clearDefaultExtensions | "clearExt" | `bool` or `int` | Clears or Clears part of the list, it safe to use `"addExt`" with this (def. `None`)
 
 ### Functions
 anything with this `**` contains optional arguments and to find what argument are there look in `main.py`
