@@ -13,7 +13,7 @@ Documentation here: https://ffmpeg.org/ffmpeg.html
 ```
 
 # Optionals (might be needed for some functions to work)
-Module | Download |
+Module/Program | Download |
 -------|----------|
 Pygame | https://www.pygame.org/news |
 MPV | https://mpv.io/ |
